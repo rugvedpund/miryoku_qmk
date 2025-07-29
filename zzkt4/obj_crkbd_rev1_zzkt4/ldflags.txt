@@ -1,0 +1,1 @@
+-Wl,--gc-sections -Wl,-Map=.build/crkbd_rev1_zzkt4.map,--cref   -lm 
